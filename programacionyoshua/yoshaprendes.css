@@ -1,0 +1,8 @@
+body {
+    color: cornflowerblue;
+    background-color: crimson;
+}
+
+.protoss :hover {
+    color: violet;
+}

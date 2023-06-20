@@ -1,0 +1,20 @@
+body {
+    color: forestgreen;
+    background-color: tomato;
+}
+
+.links :hover{
+    color: violet;
+}
+
+.contact-form {
+
+    font-size: 25px;
+}
+
+
+
+.contact-form__h2 {
+
+    font-size: 1em;
+}
